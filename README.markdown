@@ -10,7 +10,7 @@
 </div>
 
 <div align="center">
-<img width="400" height="400" src="https://github.com/suxinchun/PrecisionBoost/blob/main/image/logo.png" alt="PrecisionBoost Logo"/>
+<img src="https://github.com/destinybird/PrecisionBoost/blob/master/华佗.jpg" alt="PrecisionBoost Logo"/>
 </div>
 
 <br>
