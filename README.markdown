@@ -1,14 +1,4 @@
-<h1 align="center">PrecisionBoost</h1>
 
-<p align="center">
-<a href="https://github.com/suxinchun/PrecisionBoost"><img src="https://img.shields.io/badge/GitHub-24292e" alt="github"></a>
-<a href="https://www.modelscope.cn/models/suxinchun/PrecisionBoost"><img src="https://img.shields.io/badge/ModelScope-blueviolet" alt="modelscope"></a>
-</p>
-
-<div align="center">
-[![GitHub Stars](https://img.shields.io/github/stars/suxinchun/PrecisionBoost)](https://github.com/suxinchun/PrecisionBoost/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/suxinchun/PrecisionBoost)](https://github.com/suxinchun/PrecisionBoost/fork)
-[![GitHub Contributors](https://img.shields.io/github/contributors/suxinchun/PrecisionBoost)](https://github.com/suxinchun/PrecisionBoost/graphs/contributors)
 
 **[中文](#precisionboost中文版) | [English](#precisionboost-english-version)**
 
@@ -16,7 +6,7 @@
 </div>
 
 <div align="center">
-👋 **联系我们**: 22300240012@m.fudan.edu.cn
+👋 联系我们: 22300240012@m.fudan.edu.cn
 </div>
 
 <div align="center">
